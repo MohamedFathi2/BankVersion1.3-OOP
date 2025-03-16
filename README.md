@@ -23,7 +23,7 @@ After setting up the application, you can:
 - **Perform Transactions**: Deposit or withdraw funds, transfer money between accounts, and apply for loans as needed.
 - **View Statements**: Access account statements and transaction histories for record-keeping and financial tracking.
 
-## UI
+# UI
 **Users Log in support.**
 --
 ![LoginScreen](https://github.com/user-attachments/assets/34878ce0-32a0-4ef7-90a3-aa4d1bdc245b)
