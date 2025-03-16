@@ -89,7 +89,10 @@ After setting up the application, you can:
 ![CurrencyCalculator](https://github.com/user-attachments/assets/65516283-be9c-44df-9437-84f01951abba)
 
 
-
+## Technologies
+ - **C++ Console App**.
+ - **Object Oriented Programming**.
+ - **Visual Studio 2022**
 
 
 
