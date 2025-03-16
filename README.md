@@ -1,11 +1,11 @@
 # BankVersion1.3-OOP
 
 # Bank-OOP
---
+
 Bank-OOP is a banking system application developed using Object-Oriented Programming (OOP) principles. It offers a range of features to manage bank accounts, perform transactions, and maintain financial records efficiently.
 
 ## Key Features
---
+
 
 - **Account Management**: Create and manage different types of bank accounts.
 - **User Roles**: Supports multiple user roles such as customers, employees, and administrators, each with specific permissions and functionalities.
@@ -14,7 +14,7 @@ Bank-OOP is a banking system application developed using Object-Oriented Program
 - **User Authentication**: Secure login system to ensure that only authorized users can access their respective accounts and perform transactions.
 
 ## Usage
---
+
 
 After setting up the application, you can:
 
@@ -24,4 +24,4 @@ After setting up the application, you can:
 - **View Statements**: Access account statements and transaction histories for record-keeping and financial tracking.
 
 ## UI
---
+
